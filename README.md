@@ -15,7 +15,7 @@
 ---
 
 ## 🌐 About Me
-🚀 **Computer Science Student @ University of Calgary**  
+🚀 **Computer Science Student @ University of Calgary,Canada**  
 🔒 Specializing in **Software Development & Data Science**  
 🌟 Passionate about building impactful tech solutions.  
 🔥 I’m always up for a coding challenge! Let’s innovate together. 🚀
