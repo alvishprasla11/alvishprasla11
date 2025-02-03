@@ -24,44 +24,44 @@
 
 ## 🔧 Tech Stack & Tools
 ### 🚀 **Languages & Frameworks**  
-<a href="https://www.java.com" target="_blank">
+<a href="https://www.java.com" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </a>
-<a href="https://spring.io/projects/spring-boot" target="_blank">
+<a href="https://spring.io/projects/spring-boot" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
 </a>
-<a href="https://www.python.org" target="_blank">
+<a href="https://www.python.org" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </a>
-<a href="https://www.djangoproject.com" target="_blank">
+<a href="https://www.djangoproject.com" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </a>
 
 ### 🗄️ **Database & Tools**  
-<a href="https://www.mysql.com/" target="_blank">
+<a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </a>
-<a href="https://www.sqlite.org/" target="_blank">
+<a href="https://www.sqlite.org/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 </a>
-<a href="https://firebase.google.com/" target="_blank">
+<a href="https://firebase.google.com/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
 </a>
-<a href="https://powerbi.microsoft.com/" target="_blank">
+<a href="https://powerbi.microsoft.com/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
 </a>
-<a href="https://git-scm.com/" target="_blank">
+<a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</a> 
+</a>
 
 
 ---
