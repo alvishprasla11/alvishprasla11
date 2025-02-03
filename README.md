@@ -115,10 +115,6 @@ A **CLI tool** that brings Google's **Gemini AI** to your terminal!
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvishprasla11&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvishprasla11&theme=dark" alt="GitHub Streak"/>
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvishprasla11&layout=compact&theme=radical" alt="Most Used Languages"/>
 </p>
 
