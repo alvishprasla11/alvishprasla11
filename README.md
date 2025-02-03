@@ -2,8 +2,9 @@
 
 <h1 align="center">🚀 Alvish Prasla | Software Developer & Innovator ⚡</h1>
 
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=09F7D3&center=true&width=500&lines=Code.+Create.+Innovate." alt="Typing SVG"/>
-  
+
+<p align="center"><img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=09F7D3&center=true&width=500&lines=Code.+Create.+Innovate." alt="Typing SVG"/></p>
+ 
 ---
 
 ## 🌐 About Me
