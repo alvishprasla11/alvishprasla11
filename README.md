@@ -11,6 +11,7 @@
 🚀 **Computer Science Student @ University of Calgary**  
 🔒 Specializing in **Software Development & Data Science**  
 🌟 Passionate about building impactful tech solutions.  
+🔥 I’m always up for a coding challenge! Let’s innovate together. 🚀
 
 ---
 
@@ -101,4 +102,6 @@ A **CLI tool** that brings Google's **Gemini AI** to your terminal!
 
 ---
 
-🔥 **Fun Fact:** I’m always up for a coding challenge! Let’s innovate together. 🚀
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+</p>
