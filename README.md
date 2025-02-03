@@ -1,91 +1,101 @@
-# 🌟 Alvish Prasla | Aspiring Software Developer 🚀  
+<!-- Your Stunning GitHub Profile README -->
 
-<h3 align="center">Passionate about building innovative software solutions, optimizing workflows, and bringing ideas to life with code.</h3>
-
+<h1 align="center">🚀 Alvish Prasla | Software Developer & Innovator ⚡</h1>
 <p align="center">
-  <img src="https://img.shields.io/github/followers/alvishprasla11?style=flat-square&logo=github" alt="GitHub Followers">
-  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-Yes-brightgreen?style=flat-square" alt="Open to Collaboration">
-  <img src="https://img.shields.io/badge/Status-Active-blue?style=flat-square">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=09F7D3&center=true&width=500&lines=Code.+Create.+Innovate." alt="Typing SVG"/>
 </p>
 
 ---
 
-## 🚀 About Me  
-🎓 **Computer Science Student** @ University of Calgary  
-🔒 **Specializing in:** Software Development & Data Science  
-📍 **Based in:** Calgary, Canada  
-
-I am a software developer with a passion for solving real-world problems through technology. With experience in **full-stack development**, **data analysis**, and **algorithm optimization**, I love working on projects that make an impact. I’m always eager to explore new technologies and contribute to open-source projects.  
+## 🌐 About Me
+🚀 **Computer Science Student @ University of Calgary**  
+🔒 Specializing in **Software Development & Data Science**  
+🌟 Passionate about building impactful tech solutions.  
 
 ---
 
-## 🛠️ Tech Stack & Skills  
-
-### 🚀 **Languages & Frameworks**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
-### 🗄️ **Database & Tools**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+## 🔧 Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,sqlite,mysql,react,git,github,vscode" alt="Tech Stack" />
+</p>
 
 ---
 
-## 🏆 Featured Projects  
+## 🚀 Featured Projects
 
-### 🏗️ Iron Retail Stock Management Software  
-**A powerful and intuitive stock management system designed for the iron retail industry.**  
-This application simplifies inventory tracking, optimizes stock levels, and enhances operational efficiency. Built using **Java, SQLite, and Java Swing**, it provides a seamless, user-friendly experience for small and mid-sized iron retailers.  
+### 🏗️ Iron Retail Stock Management Software
+A powerful inventory management system for iron retail businesses. Built with **Java, SQLite, and Java Swing**. 
 
-🔹 **Key Features:**  
-✅ Real-time stock updates & alerts  
-✅ Advanced search & filter options  
-✅ Secure database integration for data persistence  
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?style=for-the-badge&logo=github)](https://github.com/alvishprasla11/StockManagementSoftwareForIronRetailBusinesses)
 
-[![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?style=for-the-badge&logo=github)](https://github.com/alvishprasla11/StockManagementSoftwareForIronRetailBusinesses)  
-
----
-
-### 📊 Time Assignment Algorithm for Retail Employees  
-**A data-driven approach to optimizing employee work-hour distribution.**  
-This algorithm leverages **Java** to intelligently assign work hours based on demand, employee availability, and business requirements, ensuring balanced workloads and increased efficiency.  
-
-🔹 **Key Benefits:**  
-✅ Minimizes scheduling conflicts  
-✅ Reduces unnecessary overtime costs  
-✅ Enhances workforce productivity  
-
-[![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?style=for-the-badge&logo=github)](https://github.com/alvishprasla11/StockManagementSoftwareForIronRetailBusinesses)  
+💡 **Features:**
+- Real-time inventory tracking 📊
+- User-friendly interface 🖥️
+- Database integration with **SQLite**
 
 ---
 
-### ✨ Resume Rewriter (AI-Powered)  
-**A smart resume optimization tool built with Python & Django.**  
-This AI-powered app refines resumes based on job descriptions, improving candidate job matching and increasing hiring chances.  
+### 📊 Time Assignment Algorithm for Retail Employees
+An optimized time allocation algorithm to enhance workforce efficiency. Built with **Java**.
 
-[![View Project](https://img.shields.io/badge/GitHub-View_Project-purple?style=for-the-badge&logo=github)](https://github.com/alvishprasla11/ResumeRewriterAI)  
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?style=for-the-badge&logo=github)](https://github.com/alvishprasla11/StockManagementSoftwareForIronRetailBusinesses)
 
----
-
-### 💻 CLI Gemini App  
-**A Command-Line Interface application that integrates Gemini AI into the terminal.**  
-This project allows users to interact with Gemini AI, generating responses and performing tasks directly from the command line.  
-
-[![View Project](https://img.shields.io/badge/GitHub-View_Project-orange?style=for-the-badge&logo=github)](https://github.com/alvishprasla11/CLI-Gemini-App)  
+🚀 **Key Highlights:**
+- Smart time slot assignment ⏳
+- Maximizes employee efficiency 👥
+- Reduces scheduling conflicts 📅
 
 ---
 
-## 🤝 Let's Connect!  
-📫 **Email:** alvishprasla@example.com  
-🌐 **Portfolio:** [alvishprasla.dev](https://alvishprasla.dev)  
-💼 **LinkedIn:** [linkedin.com/in/alvishprasla](https://linkedin.com/in/alvishprasla)  
-🐦 **Twitter:** [@AlvishPrasla](https://twitter.com/AlvishPrasla)  
+### 📝 ResuMagic AI - Smart Resume Rewriter
+A **Django-powered web app** that intelligently tailors resumes to job descriptions. 
 
-💡 *I’m always open to collaboration, freelance opportunities, and innovative discussions!* 🚀
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?style=for-the-badge&logo=github)](https://github.com/alvishprasla11/ResuMagicAI)
+
+🔍 **Key Features:**
+- AI-powered resume customization 🤖
+- Smart keyword optimization ✨
+- Built with **Python, Django, HTML, CSS, JavaScript** 🛠️
+
+---
+
+### 🖥️ Gemini CLI - Chat with AI in Your Terminal
+A **CLI tool** that brings Google's **Gemini AI** to your terminal! 
+
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?style=for-the-badge&logo=github)](https://github.com/alvishprasla11/GeminiCLI)
+
+⚡ **Why It’s Cool:**
+- Instant AI-powered responses 💡
+- Lightweight and efficient ⚡
+- Built with **Python** 🐍
+
+---
+
+## 📫 Let's Connect!
+📩 **Reach out & collaborate!** I’m open to new opportunities, innovative ideas, and tech discussions. 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alvishprasla">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:alvishprasla11@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://twitter.com/alvishprasla">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alvishprasla11&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvishprasla11&theme=dark" alt="GitHub Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvishprasla11&layout=compact&theme=radical" alt="Most Used Languages"/>
+</p>
+
+---
+
+🔥 **Fun Fact:** I’m always up for a coding challenge! Let’s innovate together. 🚀
