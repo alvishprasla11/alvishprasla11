@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🌟 Alvish Prasla | Aspiring Software Developer 🚀  
 
-<!--
-**alvishprasla11/alvishprasla11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**👨‍💻 Computer Science Student @ University of Calgary**  
+**🔒 Specializing in Software Development & Data Science** 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies  
+- **Programming:** Java, Spring Boot, SQL, Python  
+- **Frontend & Backend:** Java Swing, Spring React  
+- **Database Management:** SQLite, MySQL  
+- **Tools:** Power BI, Git, VS Code  
+
+---
+
+## 🚀 Projects & Contributions  
+### 🏗️ Iron Retail Stock Management Software  
+An open-source, highly tailored app for iron retail businesses using **Java**, **SQLite**, and **Java Swing**.  
+[➡️ View Project](https://github.com/alvishprasla11/StockManagementSoftwareForIronRetailBusinesses)  
+
+### 📊 Time assignment algorithm for employees in the retail industry  
+An open-source time assignment algorithm to optimize retail work hour allocation, built with Java.
+[➡️ View Project](https://github.com/alvishprasla11/StockManagementSoftwareForIronRetailBusinesses)  
+
+---
