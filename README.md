@@ -73,10 +73,6 @@ A powerful inventory management system for iron retail businesses. Built with **
 
 [![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?style=for-the-badge&logo=github)](https://github.com/alvishprasla11/StockManagementSoftwareForIronRetailBusinesses)
 
-💡 **Features:**
-- Real-time inventory tracking 📊
-- User-friendly interface 🖥️
-- Database integration with **SQLite**
 
 ---
 
@@ -85,11 +81,6 @@ An optimized time allocation algorithm to enhance workforce efficiency. Built wi
 
 [![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?style=for-the-badge&logo=github)](https://github.com/alvishprasla11/StockManagementSoftwareForIronRetailBusinesses)
 
-🚀 **Key Highlights:**
-- Smart time slot assignment ⏳
-- Maximizes employee efficiency 👥
-- Reduces scheduling conflicts 📅
-
 ---
 
 ### 📝 ResuMagic AI - Smart Resume Rewriter
@@ -97,22 +88,12 @@ A **Django-powered web app** that intelligently tailors resumes to job descripti
 
 [![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?style=for-the-badge&logo=github)](https://github.com/alvishprasla11/ResuMagicAI)
 
-🔍 **Key Features:**
-- AI-powered resume customization 🤖
-- Smart keyword optimization ✨
-- Built with **Python, Django, HTML, CSS, JavaScript** 🛠️
-
 ---
 
 ### 🖥️ Gemini CLI - Chat with AI in Your Terminal
 A **CLI tool** that brings Google's **Gemini AI** to your terminal! 
 
 [![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?style=for-the-badge&logo=github)](https://github.com/alvishprasla11/GeminiCLI)
-
-⚡ **Why It’s Cool:**
-- Instant AI-powered responses 💡
-- Lightweight and efficient ⚡
-- Built with **Python** 🐍
 
 ---
 
