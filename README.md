@@ -4,7 +4,13 @@
 
 
 <p align="center"><img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=09F7D3&center=true&width=500&lines=Code.+Create.+Innovate." alt="Typing SVG"/></p>
- 
+
+ <p align="center">
+  <img src="https://img.shields.io/github/followers/alvishprasla11?style=flat-square&logo=github" alt="GitHub Followers">
+  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-Yes-brightgreen?style=flat-square" alt="Open to Collaboration">
+  <img src="https://img.shields.io/badge/Status-Active-blue?style=flat-square">
+</p>
+
 ---
 
 ## 🌐 About Me
