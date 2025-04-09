@@ -73,16 +73,6 @@ A powerful inventory management system for iron retail businesses. Built with **
 
 [![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?style=for-the-badge&logo=github)](https://github.com/alvishprasla11/StockManagementSoftwareForIronRetailBusinesses)
 
-
----
-
-### 📊 Time Assignment Algorithm for Retail Employees
-An optimized time allocation algorithm to enhance workforce efficiency. Built with **Java**.
-
-[![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?style=for-the-badge&logo=github)](https://github.com/alvishprasla11/StockManagementSoftwareForIronRetailBusinesses)
-
----
-
 ### 📝 ResuMagic AI - Smart Resume Rewriter
 A **Django-powered web app** that intelligently tailors resumes to job descriptions. 
 
