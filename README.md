@@ -79,7 +79,7 @@ A **CLI tool** that brings Google's **Gemini AI** to your terminal!
 📩 **Reach out & collaborate!** I’m open to new opportunities, innovative ideas, and tech discussions. 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alvishprasla">
+  <a href="https://www.linkedin.com/in/alvish-prasla">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:alvishprasla11@example.com">
