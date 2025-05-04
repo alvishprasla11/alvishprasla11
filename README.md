@@ -1,10 +1,6 @@
 <!-- Your Stunning GitHub Profile README -->
 
-<h1 align="center">🚀 Alvish Prasla | Software Developer & Innovator ⚡</h1>
-
-<p align="center" style="line-height: 0; margin: 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=09F7D3&center=true&width=500&lines=Code.+Create.+Innovate." alt="Typing SVG" style="display:block; margin-bottom: 0; padding-bottom: 0; height: auto;" />
-</p>
+<h1 align="center">🚀 Alvish Prasla | CS @ U of C </h1>
 
  <p align="center">
   <img src="https://img.shields.io/github/followers/alvishprasla11?style=flat-square&logo=github" alt="GitHub Followers">
