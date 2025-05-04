@@ -1,13 +1,6 @@
 <!-- Your Stunning GitHub Profile README -->
 
-<h1 align="center">🚀 Alvish Prasla | CS @ U of C </h1>
-
- <p align="center">
-  <img src="https://img.shields.io/github/followers/alvishprasla11?style=flat-square&logo=github" alt="GitHub Followers">
-  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-Yes-brightgreen?style=flat-square" alt="Open to Collaboration">
-  <img src="https://img.shields.io/badge/Status-Active-blue?style=flat-square">
-</p>
-
+<h1 align="center"> Alvish Prasla | CS @ U of C </h1>
 ---
 
 ## 🌐 About Me
