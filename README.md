@@ -1,8 +1,6 @@
 <!-- Your Stunning GitHub Profile README -->
 
 <h1 align="center"> Alvish Prasla | CS @ U of C </h1>
----
-
 ## 🌐 About Me
 🚀 **Computer Science Student @ University of Calgary, Canada**  
 🔒 Specializing in **Software Development & Data Science**  
