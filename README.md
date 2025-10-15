@@ -54,27 +54,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏗️ Iron Retail Stock Management Software
-A powerful inventory management system for iron retail businesses. Built with **Java, SQLite, and Java Swing**. 
-
-[![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?style=for-the-badge&logo=github)](https://github.com/alvishprasla11/StockManagementSoftwareForIronRetailBusinesses)
-
-### 📝 ResuMagic AI - Smart Resume Rewriter
-A **Django-powered web app** that intelligently tailors resumes to job descriptions. 
-
-[![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?style=for-the-badge&logo=github)](https://github.com/alvishprasla11/ResuMagicAI)
-
----
-
-### 🖥️ Gemini CLI - Chat with AI in Your Terminal
-A **CLI tool** that brings Google's **Gemini AI** to your terminal! 
-
-[![View Project](https://img.shields.io/badge/GitHub-View_Project-blue?style=for-the-badge&logo=github)](https://github.com/alvishprasla11/GeminiCLI)
-
----
-
 ## 📫 Let's Connect!
 📩 **Reach out & collaborate!** I’m open to new opportunities, innovative ideas, and tech discussions. 
 
