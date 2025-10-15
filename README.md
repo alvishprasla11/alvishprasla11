@@ -31,9 +31,9 @@
 📩 **Reach out & collaborate!** I’m open to new opportunities, innovative ideas, and tech discussions.
 
 <div align="center">
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>](https://www.linkedin.com/in/alvish-prasla)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="40" alt="Email"/>](mailto:alvishprasla11@gmail.com)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter"/>](https://twitter.com/alvishprasla)
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/alvish-prasla)
+[![Email](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png)](mailto:alvishprasla11@gmail.com)
+[![Twitter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg)](https://twitter.com/alvishprasla)
 </div>
 
 ---
