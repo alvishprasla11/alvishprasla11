@@ -34,17 +34,18 @@
 📩 **Reach out & collaborate!** I’m open to new opportunities, innovative ideas, and tech discussions. 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alvish-prasla">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/alvish-prasla" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:alvishprasla11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" alt="Email" />
   </a>
-  <a href="https://twitter.com/alvishprasla">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" />
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/alvishprasla" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter" />
   </a>
 </p>
-
 ---
 
 <p align="center">
