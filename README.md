@@ -12,8 +12,6 @@
 
 ## 🔧 Tech Stack & Tools
 
-## 🔧 Tech Stack & Tools
-
 ### 🚀 Languages & Frameworks  
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>](https://www.java.com)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>](https://spring.io/projects/spring-boot)
