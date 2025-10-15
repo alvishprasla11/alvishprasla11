@@ -12,21 +12,23 @@
 
 ## 🔧 Tech Stack & Tools
 
+## 🔧 Tech Stack & Tools
+
 ### 🚀 Languages & Frameworks  
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)](https://www.java.com)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)](https://www.python.org)
-[![Django](https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white)](https://www.djangoproject.com)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>](https://www.java.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>](https://spring.io/projects/spring-boot)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>](https://www.python.org)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>](https://www.djangoproject.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### 🗄️ Database & Tools  
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)](https://www.mysql.com)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white)](https://www.sqlite.org)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=white)](https://firebase.google.com)
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
-[![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)](https://git-scm.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>](https://www.mysql.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>](https://www.sqlite.org)
+[<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/>](https://firebase.google.com)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI"/>](https://powerbi.microsoft.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>](https://git-scm.com)
 
 ---
 
