@@ -2,7 +2,7 @@
 
 ## 🌐 About Me
 🚀 **Computer Science Student @ University of Calgary, Canada**  
-🔒 Specializing in **Software Development & Data Science**  
+🔒 Major in **Software Engineering & Data Science**  
 🌟 Tryna Inovate as much as I can
 
 ---
