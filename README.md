@@ -1,12 +1,9 @@
-<!-- Your Stunning GitHub Profile README -->
-
 <h1 align="center"> Alvish Prasla | CS @ U of C </h1>
 
 ## 🌐 About Me
 🚀 **Computer Science Student @ University of Calgary, Canada**  
 🔒 Specializing in **Software Development & Data Science**  
-🌟 Passionate about building impactful tech solutions.  
-🔥 I’m always up for a coding challenge! Let’s innovate together. 🚀
+🌟 Tryna Inovate as much as I can
 
 ---
 
@@ -31,17 +28,13 @@
 ---
 
 ## 📫 Let's Connect!
-📩 **Reach out & collaborate!** I’m open to new opportunities, innovative ideas, and tech discussions. 
+📩 **Reach out & collaborate!** I’m open to new opportunities, innovative ideas, and tech discussions.
 
-## 🌐 Connect With Me  
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alvish-prasla)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:alvishprasla11@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/alvishprasla)
-
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>](https://www.linkedin.com/in/alvish-prasla)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="40" alt="Email"/>](mailto:alvishprasla11@gmail.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter"/>](https://twitter.com/alvishprasla)
 </div>
-
 
 ---
 
@@ -52,5 +45,5 @@
 ---
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+  <i>"Code is like humour. When you have to explain it, it’s bad." – Cory House</i>
 </p>
